@@ -1,0 +1,3 @@
+[submodule "enunlg"]
+	path = enunlg
+	url = https://github.com/NapierNLP/enunlg.git
